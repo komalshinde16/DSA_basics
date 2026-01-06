@@ -13,8 +13,6 @@ public class fibonacci {
         System.out.print(c + " ");
         a = b;
         b = c;
-
-
     }
     }
 }
